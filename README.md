@@ -1,0 +1,2 @@
+# livingcost
+Golang training
